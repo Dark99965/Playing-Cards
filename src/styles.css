@@ -12,6 +12,7 @@
   align-self: flex-start;
 }
 .middle {
+  display: flex;
   align-self: center;
 }
 .right {
