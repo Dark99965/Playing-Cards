@@ -11,3 +11,6 @@
 .left {
   align-self: flex-start;
 }
+.middle {
+  align-self: center;
+}
