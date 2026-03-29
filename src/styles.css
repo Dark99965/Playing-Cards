@@ -14,3 +14,6 @@
 .middle {
   align-self: center;
 }
+.right {
+  align-self: flex-end;
+}
